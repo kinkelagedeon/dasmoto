@@ -1,0 +1,37 @@
+h1{
+    background-image: url('images/pattern_111.jpeg' );
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.bru{
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.fra {
+    background-color:lightcoral ;
+
+
+}
+
+.Pai{
+    background-color: skyblue ;
+
+}
+strong{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
